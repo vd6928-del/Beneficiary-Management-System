@@ -1,0 +1,6 @@
+{
+  "name": "Beneficiary & Activity Management System",
+  "description": "Comprehensive tracking and management system for rural development beneficiaries, agricultural activities, and village development committee (VDC) meetings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
